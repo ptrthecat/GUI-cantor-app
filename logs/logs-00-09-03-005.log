@@ -1,0 +1,95 @@
+2024-01-09 00:08:10,655 INFO p.ApiKantor [AWT-EventQueue-0] Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/564840-kantor-kardinal
+2024-01-09 00:08:12,682 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty AED	
+2024-01-09 00:08:12,682 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty AUD	
+2024-01-09 00:08:12,683 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BGN	
+2024-01-09 00:08:12,683 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CAD	
+2024-01-09 00:08:12,683 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CNY	
+2024-01-09 00:08:12,683 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CZK	
+2024-01-09 00:08:12,683 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty DKK	
+2024-01-09 00:08:12,684 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty EUR	
+2024-01-09 00:08:12,684 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty GBP	
+2024-01-09 00:08:12,684 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty HUF	
+2024-01-09 00:08:12,684 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty ILS	
+2024-01-09 00:08:12,684 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty NOK	
+2024-01-09 00:08:12,684 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty RON	
+2024-01-09 00:08:12,685 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty SEK	
+2024-01-09 00:08:12,685 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty TRY	
+2024-01-09 00:08:12,685 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty UAH	
+2024-01-09 00:08:12,685 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty USD	
+2024-01-09 00:08:12,685 INFO p.ApiKantor [AWT-EventQueue-0] 
+
+2024-01-09 00:08:12,685 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 1.05	
+2024-01-09 00:08:12,686 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 2.65	
+2024-01-09 00:08:12,686 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 2.18	
+2024-01-09 00:08:12,686 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 2.94	
+2024-01-09 00:08:12,686 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.45	
+2024-01-09 00:08:12,686 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.171	
+2024-01-09 00:08:12,686 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.48	
+2024-01-09 00:08:12,686 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 4.31	
+2024-01-09 00:08:12,688 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 5.01	
+2024-01-09 00:08:12,688 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.011	
+2024-01-09 00:08:12,688 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.9	
+2024-01-09 00:08:12,688 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.3	
+2024-01-09 00:08:12,688 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.75	
+2024-01-09 00:08:12,688 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.365	
+2024-01-09 00:08:12,688 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.12	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.1	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 3.93	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] 
+
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 1.15	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 2.7	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 2.55	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 3	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.65	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.177	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.6	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 4.345	
+2024-01-09 00:08:12,689 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 5.07	
+2024-01-09 00:08:12,690 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.013	
+2024-01-09 00:08:12,690 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 1.05	
+2024-01-09 00:08:12,690 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.36	
+2024-01-09 00:08:12,690 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 1.105	
+2024-01-09 00:08:12,690 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.385	
+2024-01-09 00:08:12,690 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.2	
+2024-01-09 00:08:12,690 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 0.11	
+2024-01-09 00:08:12,690 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty 3.97	
+2024-01-09 00:08:12,691 INFO p.ApiKantor [AWT-EventQueue-0] 
+
+2024-01-09 00:08:12,696 INFO p.ApiKantor [AWT-EventQueue-0] Pobieranie danych zakończone sukcesem.
+2024-01-09 00:09:01,082 INFO p.ApiKantor [AWT-EventQueue-0] Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/707917-kantor-centrum
+2024-01-09 00:09:02,999 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty AED	
+2024-01-09 00:09:02,999 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty ALL	
+2024-01-09 00:09:02,999 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty AMD	
+2024-01-09 00:09:02,999 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty ARS	
+2024-01-09 00:09:02,999 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty AUD	
+2024-01-09 00:09:03,000 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty AZN	
+2024-01-09 00:09:03,000 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BAM	
+2024-01-09 00:09:03,000 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BDT	
+2024-01-09 00:09:03,000 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BGN	
+2024-01-09 00:09:03,000 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BHD	
+2024-01-09 00:09:03,000 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BOB	
+2024-01-09 00:09:03,000 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BRL	
+2024-01-09 00:09:03,001 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BWP	
+2024-01-09 00:09:03,001 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty BYN	
+2024-01-09 00:09:03,001 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CAD	
+2024-01-09 00:09:03,001 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CHF	
+2024-01-09 00:09:03,001 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CLP	
+2024-01-09 00:09:03,001 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CNY	
+2024-01-09 00:09:03,001 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty COP	
+2024-01-09 00:09:03,001 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CRC	
+2024-01-09 00:09:03,002 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty CZK	
+2024-01-09 00:09:03,002 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty DKK	
+2024-01-09 00:09:03,002 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty DOP	
+2024-01-09 00:09:03,002 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty EGP	
+2024-01-09 00:09:03,002 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty EUB	
+2024-01-09 00:09:03,003 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty EUR	
+2024-01-09 00:09:03,003 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty GBP	
+2024-01-09 00:09:03,003 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty GEL	
+2024-01-09 00:09:03,003 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty HKD	
+2024-01-09 00:09:03,003 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty HRK	
+2024-01-09 00:09:03,003 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty HUF	
+2024-01-09 00:09:03,004 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty IDR	
+2024-01-09 00:09:03,004 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty IEP	
+2024-01-09 00:09:03,004 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty ILS	
+2024-01-09 00:09:03,004 INFO p.ApiKantor [AWT-EventQueue-0] pobrano dane waluty INR	

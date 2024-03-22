@@ -1,0 +1,1676 @@
+2024-01-12 13:40:13 INFO  Menu:125 - Aplikacja uruchomiona pomyślnie.
+2024-01-12 13:40:22 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/564840-kantor-kardinal
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty AED	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty BGN	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty CNY	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty CZK	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 1.05	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 2.62	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 2.18	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 2.93	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.45	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.171	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.48	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 4.34	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 5.03	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.011	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.9	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.3	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.75	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.365	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.12	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.1	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 3.965	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 1.15	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 2.68	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 2.55	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 2.99	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.65	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.177	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.6	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 4.37	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 5.08	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.013	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 1.05	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.36	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 1.105	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.385	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.2	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 0.11	
+2024-01-12 13:40:24 INFO  ApiKantor:123 - pobrano dane waluty 3.995	
+2024-01-12 13:40:24 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor Kardinal
+2024-01-12 13:40:24 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 13:40:24 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:40:28 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/652480-kantor-house
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty CHF	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty CNY	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty CZK	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty GEL	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 2.61	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 2.92	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 4.63	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.46	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.171	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.46	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 4.34	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 5.02	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 1.436	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.01	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.75	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.27	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.835	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.365	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.125	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.1	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 3.961	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 2.7	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 2.99	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 4.66	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.59	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.177	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.52	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 4.36	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 5.05	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 1.75	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.0118	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 1	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.35	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.93	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.39	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.18	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 0.108	
+2024-01-12 13:40:29 INFO  ApiKantor:123 - pobrano dane waluty 3.999	
+2024-01-12 13:40:29 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor House
+2024-01-12 13:40:29 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 13:40:29 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:40:46 INFO  CompUI:93 - Zapisano: eur
+2024-01-12 13:40:46 INFO  Compare:17 - Rozpoczęcie porównywania cen dla waluty: EUR
+2024-01-12 13:40:46 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/564840-kantor-kardinal
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.15
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.62, Sprzedaż: 2.68
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.55
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.93, Sprzedaż: 2.99
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.45, Sprzedaż: 0.65
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.6
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.013
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.05
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.75, Sprzedaż: 1.105
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.385
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.11
+2024-01-12 13:40:47 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.965, Sprzedaż: 3.995
+2024-01-12 13:40:47 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:40:47 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/876368-kantor-pr
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.03, Sprzedaż: 1.17
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.6, Sprzedaż: 2.72
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.98
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.69
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.54
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.012
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.09
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.026, Sprzedaż: 0.03
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.83, Sprzedaż: 0.98
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.36, Sprzedaż: 0.39
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.105
+2024-01-12 13:40:49 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.965, Sprzedaż: 3.995
+2024-01-12 13:40:49 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:40:49 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/652480-kantor-house
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.61, Sprzedaż: 2.7
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.99
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.66
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.46, Sprzedaż: 0.59
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.46, Sprzedaż: 0.52
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.36
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.02, Sprzedaż: 5.05
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.436, Sprzedaż: 1.75
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.01, Sprzedaż: 0.0118
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.75, Sprzedaż: 1
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.27, Sprzedaż: 0.35
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.835, Sprzedaż: 0.93
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.39
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.125, Sprzedaż: 0.18
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.108
+2024-01-12 13:40:51 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.961, Sprzedaż: 3.999
+2024-01-12 13:40:51 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:40:51 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/707917-kantor-centrum
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.042, Sprzedaż: 1.146
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.0421, Sprzedaż: 0.0487
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty AMD: Kupno: 0.009, Sprzedaż: 0.0134
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty ARS: Kupno: 0.0031, Sprzedaż: 0.023
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.622, Sprzedaż: 2.687
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty AZN: Kupno: 2.202, Sprzedaż: 2.661
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.303, Sprzedaż: 2.595
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty BDT: Kupno: 0.0202, Sprzedaż: 0.0349
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.212, Sprzedaż: 2.378
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty BHD: Kupno: 7.7, Sprzedaż: 11.7
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty BOB: Kupno: 0.44, Sprzedaż: 0.74
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.827, Sprzedaż: 0.985
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty BWP: Kupno: 0.184, Sprzedaż: 0.37
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty BYN: Kupno: 0.835, Sprzedaż: 1.38
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.933, Sprzedaż: 2.988
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.604, Sprzedaż: 4.667
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty CLP: Kupno: 0.0036, Sprzedaż: 0.0055
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.523, Sprzedaż: 0.605
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty COP: Kupno: 0.0006, Sprzedaż: 0.0012
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty CRC: Kupno: 0.0051, Sprzedaż: 0.0099
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1722, Sprzedaż: 0.1775
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.473, Sprzedaż: 0.557
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty DOP: Kupno: 0.0737, Sprzedaż: 0.0915
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.09, Sprzedaż: 0.158
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty EUB: Kupno: 3.35, Sprzedaż: 4.3
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.2931, Sprzedaż: 4.358
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.01, Sprzedaż: 5.062
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.454, Sprzedaż: 1.737
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty HKD: Kupno: 0.477, Sprzedaż: 0.574
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty HRK: Kupno: 0.402, Sprzedaż: 0.566
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.0112, Sprzedaż: 0.0119
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty IDR: Kupno: 0.0026, Sprzedaż: 0.0036
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty IEP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9022, Sprzedaż: 1.088
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.0453, Sprzedaż: 0.0542
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty IRP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.0262, Sprzedaż: 0.0306
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty JMD: Kupno: 0.016, Sprzedaż: 0.03
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty JOD: Kupno: 5.56, Sprzedaż: 6.49
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0272, Sprzedaż: 0.0299
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty KES: Kupno: 0.0214, Sprzedaż: 0.0347
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty KRW: Kupno: 0.0031, Sprzedaż: 0.0038
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty KWD: Kupno: 11.1, Sprzedaż: 13.66
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty KZT: Kupno: 0.0067, Sprzedaż: 0.0127
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty LKR: Kupno: 0.01, Sprzedaż: 0.0164
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.434, Sprzedaż: 0.508
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty MDL: Kupno: 0.142, Sprzedaż: 0.249
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty MKD: Kupno: 0.0733, Sprzedaż: 0.0842
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty MVR: Kupno: 0.265, Sprzedaż: 0.388
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.232, Sprzedaż: 0.276
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty MYR: Kupno: 0.814, Sprzedaż: 1.022
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.284, Sprzedaż: 0.368
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty NPR: Kupno: 0.0202, Sprzedaż: 0.0375
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.413, Sprzedaż: 2.734
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty OMR: Kupno: 10.1, Sprzedaż: 12.3
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty PEN: Kupno: 1.113, Sprzedaż: 1.29
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty PHP: Kupno: 0.0625, Sprzedaż: 0.0938
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty QAR: Kupno: 1.012, Sprzedaż: 1.188
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.833, Sprzedaż: 0.968
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.0373, Sprzedaż: 0.0452
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty RUB: Kupno: 0.0356, Sprzedaż: 0.0498
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty SAR: Kupno: 1.013, Sprzedaż: 1.183
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty SCP: Kupno: 4.26, Sprzedaż: 5.01
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty SCR: Kupno: 0.283, Sprzedaż: 0.432
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.363, Sprzedaż: 0.389
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.954, Sprzedaż: 3.185
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.1165, Sprzedaż: 0.1355
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty TMB: Kupno: 0.114, Sprzedaż: 0.1352
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty TND: Kupno: 1.211, Sprzedaż: 1.49
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.1307, Sprzedaż: 0.2164
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty TWD: Kupno: 0.09, Sprzedaż: 0.165
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty TZS: Kupno: 0.0012, Sprzedaż: 0.0027
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.0983, Sprzedaż: 0.1086
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.9514, Sprzedaż: 3.987
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty UYU: Kupno: 0.04, Sprzedaż: 0.14
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty VND: Kupno: 0.0015, Sprzedaż: 0.0023
+2024-01-12 13:40:52 INFO  ApiCur:108 - pobrano dane waluty ZAR: Kupno: 0.206, Sprzedaż: 0.285
+2024-01-12 13:40:52 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:40:52 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 13:40:53 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:40:53 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/466986-kantor-baksy
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.17
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.041, Sprzedaż: 0.049
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.65, Sprzedaż: 2.77
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.2, Sprzedaż: 2.6
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.3
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.8, Sprzedaż: 0.97
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.91, Sprzedaż: 2.98
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.625, Sprzedaż: 4.695
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.533, Sprzedaż: 0.6
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1745, Sprzedaż: 0.18
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.55
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.1, Sprzedaż: 0.147
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.33, Sprzedaż: 4.38
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.099
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.45, Sprzedaż: 1.75
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.0118
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.1
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.046, Sprzedaż: 0.055
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.024, Sprzedaż: 0.03
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0273, Sprzedaż: 0.0298
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.4, Sprzedaż: 0.5
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.23, Sprzedaż: 0.27
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.305, Sprzedaż: 0.34
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.4, Sprzedaż: 2.7
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.85, Sprzedaż: 0.92
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.037, Sprzedaż: 0.046
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.37, Sprzedaż: 0.388
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.95, Sprzedaż: 3.2
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.116, Sprzedaż: 0.128
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.13, Sprzedaż: 0.22
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.103
+2024-01-12 13:40:55 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.96, Sprzedaż: 4.01
+2024-01-12 13:40:55 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:40:55 INFO  Compare:30 - Wyniki porównania cen dla waluty EUR:
+2024-01-12 13:40:55 INFO  Compare:34 - Kantor Kardinal
+2024-01-12 13:40:55 INFO  Compare:34 - Kantor P&R
+2024-01-12 13:40:55 INFO  Compare:34 - Kantor House
+2024-01-12 13:40:55 INFO  Compare:34 - Kantor Centrum
+2024-01-12 13:40:55 INFO  Compare:34 - Kantor Agatka
+2024-01-12 13:40:55 INFO  Compare:34 - Kantor Baksy
+2024-01-12 13:40:55 INFO  Compare:34 - 4.34
+2024-01-12 13:40:55 INFO  Compare:34 - 4.34
+2024-01-12 13:40:55 INFO  Compare:34 - 4.34
+2024-01-12 13:40:55 INFO  Compare:34 - 4.2931
+2024-01-12 13:40:55 INFO  Compare:34 - brak
+2024-01-12 13:40:55 INFO  Compare:34 - 4.33
+2024-01-12 13:40:55 INFO  Compare:34 - 4.37
+2024-01-12 13:40:55 INFO  Compare:34 - 4.37
+2024-01-12 13:40:55 INFO  Compare:34 - 4.36
+2024-01-12 13:40:55 INFO  Compare:34 - 4.358
+2024-01-12 13:40:55 INFO  Compare:34 - brak
+2024-01-12 13:40:55 INFO  Compare:34 - 4.38
+2024-01-12 13:40:55 INFO  Compare:40 - Porównywanie cen zakończone sukcesem.
+2024-01-12 13:40:55 INFO  CurFront:85 - Wyświetlono tabelę na stronie: EUR
+2024-01-12 13:44:17 ERROR ErrorThree:19 - Błąd: Skróty walut powinny być 3-znakowe (np: PLN, USD, EUR)
+2024-01-12 13:44:17 ERROR CompUI:102 - Błąd: Wprowadź dokładnie 3-literowy skrót waluty.
+2024-01-12 13:44:25 INFO  CompUI:75 - Zapisano: czk
+2024-01-12 13:44:25 INFO  Compare:17 - Rozpoczęcie porównywania cen dla waluty: CZK
+2024-01-12 13:44:25 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/564840-kantor-kardinal
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.15
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.62, Sprzedaż: 2.68
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.55
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.93, Sprzedaż: 2.99
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.45, Sprzedaż: 0.65
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.6
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.013
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.05
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.75, Sprzedaż: 1.105
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.385
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.11
+2024-01-12 13:44:27 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.965, Sprzedaż: 3.995
+2024-01-12 13:44:27 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:44:27 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/876368-kantor-pr
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.03, Sprzedaż: 1.17
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.6, Sprzedaż: 2.72
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.98
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.69
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.54
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.012
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.09
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.026, Sprzedaż: 0.03
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.83, Sprzedaż: 0.98
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.36, Sprzedaż: 0.39
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.105
+2024-01-12 13:44:29 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.965, Sprzedaż: 3.995
+2024-01-12 13:44:29 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:44:29 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/652480-kantor-house
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.61, Sprzedaż: 2.7
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.99
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.66
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.46, Sprzedaż: 0.59
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.46, Sprzedaż: 0.52
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.36
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.02, Sprzedaż: 5.05
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.436, Sprzedaż: 1.75
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.01, Sprzedaż: 0.0118
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.75, Sprzedaż: 1
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.27, Sprzedaż: 0.35
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.835, Sprzedaż: 0.93
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.39
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.125, Sprzedaż: 0.18
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.108
+2024-01-12 13:44:30 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.961, Sprzedaż: 3.999
+2024-01-12 13:44:30 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:44:30 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/707917-kantor-centrum
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.042, Sprzedaż: 1.146
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.0421, Sprzedaż: 0.0487
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty AMD: Kupno: 0.009, Sprzedaż: 0.0134
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty ARS: Kupno: 0.0031, Sprzedaż: 0.023
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.622, Sprzedaż: 2.687
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty AZN: Kupno: 2.202, Sprzedaż: 2.661
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.303, Sprzedaż: 2.595
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty BDT: Kupno: 0.0202, Sprzedaż: 0.0349
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.212, Sprzedaż: 2.378
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty BHD: Kupno: 7.7, Sprzedaż: 11.7
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty BOB: Kupno: 0.44, Sprzedaż: 0.74
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.827, Sprzedaż: 0.985
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty BWP: Kupno: 0.184, Sprzedaż: 0.37
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty BYN: Kupno: 0.835, Sprzedaż: 1.38
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.933, Sprzedaż: 2.988
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.604, Sprzedaż: 4.667
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty CLP: Kupno: 0.0036, Sprzedaż: 0.0055
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.523, Sprzedaż: 0.605
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty COP: Kupno: 0.0006, Sprzedaż: 0.0012
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty CRC: Kupno: 0.0051, Sprzedaż: 0.0099
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1722, Sprzedaż: 0.1775
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.473, Sprzedaż: 0.557
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty DOP: Kupno: 0.0737, Sprzedaż: 0.0915
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.09, Sprzedaż: 0.158
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty EUB: Kupno: 3.35, Sprzedaż: 4.3
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.2931, Sprzedaż: 4.358
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.01, Sprzedaż: 5.062
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.454, Sprzedaż: 1.737
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty HKD: Kupno: 0.477, Sprzedaż: 0.574
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty HRK: Kupno: 0.402, Sprzedaż: 0.566
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.0112, Sprzedaż: 0.0119
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty IDR: Kupno: 0.0026, Sprzedaż: 0.0036
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty IEP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9022, Sprzedaż: 1.088
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.0453, Sprzedaż: 0.0542
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty IRP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.0262, Sprzedaż: 0.0306
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty JMD: Kupno: 0.016, Sprzedaż: 0.03
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty JOD: Kupno: 5.56, Sprzedaż: 6.49
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0272, Sprzedaż: 0.0299
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty KES: Kupno: 0.0214, Sprzedaż: 0.0347
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty KRW: Kupno: 0.0031, Sprzedaż: 0.0038
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty KWD: Kupno: 11.1, Sprzedaż: 13.66
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty KZT: Kupno: 0.0067, Sprzedaż: 0.0127
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty LKR: Kupno: 0.01, Sprzedaż: 0.0164
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.434, Sprzedaż: 0.508
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty MDL: Kupno: 0.142, Sprzedaż: 0.249
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty MKD: Kupno: 0.0733, Sprzedaż: 0.0842
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty MVR: Kupno: 0.265, Sprzedaż: 0.388
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.232, Sprzedaż: 0.276
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty MYR: Kupno: 0.814, Sprzedaż: 1.022
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.284, Sprzedaż: 0.368
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty NPR: Kupno: 0.0202, Sprzedaż: 0.0375
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.413, Sprzedaż: 2.734
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty OMR: Kupno: 10.1, Sprzedaż: 12.3
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty PEN: Kupno: 1.113, Sprzedaż: 1.29
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty PHP: Kupno: 0.0625, Sprzedaż: 0.0938
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty QAR: Kupno: 1.012, Sprzedaż: 1.188
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.833, Sprzedaż: 0.968
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.0373, Sprzedaż: 0.0452
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty RUB: Kupno: 0.0356, Sprzedaż: 0.0498
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty SAR: Kupno: 1.013, Sprzedaż: 1.183
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty SCP: Kupno: 4.26, Sprzedaż: 5.01
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty SCR: Kupno: 0.283, Sprzedaż: 0.432
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.363, Sprzedaż: 0.389
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.954, Sprzedaż: 3.185
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.1165, Sprzedaż: 0.1355
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty TMB: Kupno: 0.114, Sprzedaż: 0.1352
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty TND: Kupno: 1.211, Sprzedaż: 1.49
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.1307, Sprzedaż: 0.2164
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty TWD: Kupno: 0.09, Sprzedaż: 0.165
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty TZS: Kupno: 0.0012, Sprzedaż: 0.0027
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.0983, Sprzedaż: 0.1086
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.9514, Sprzedaż: 3.987
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty UYU: Kupno: 0.04, Sprzedaż: 0.14
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty VND: Kupno: 0.0015, Sprzedaż: 0.0023
+2024-01-12 13:44:31 INFO  ApiCur:108 - pobrano dane waluty ZAR: Kupno: 0.206, Sprzedaż: 0.285
+2024-01-12 13:44:31 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:44:31 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 13:44:33 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:44:33 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/466986-kantor-baksy
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.17
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.041, Sprzedaż: 0.049
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.65, Sprzedaż: 2.77
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.2, Sprzedaż: 2.6
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.3
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.8, Sprzedaż: 0.97
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.91, Sprzedaż: 2.98
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.625, Sprzedaż: 4.695
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.533, Sprzedaż: 0.6
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1745, Sprzedaż: 0.18
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.55
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.1, Sprzedaż: 0.147
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.33, Sprzedaż: 4.38
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.099
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.45, Sprzedaż: 1.75
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.0118
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.1
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.046, Sprzedaż: 0.055
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.024, Sprzedaż: 0.03
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0273, Sprzedaż: 0.0298
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.4, Sprzedaż: 0.5
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.23, Sprzedaż: 0.27
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.305, Sprzedaż: 0.34
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.4, Sprzedaż: 2.7
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.85, Sprzedaż: 0.92
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.037, Sprzedaż: 0.046
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.37, Sprzedaż: 0.388
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.95, Sprzedaż: 3.2
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.116, Sprzedaż: 0.128
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.13, Sprzedaż: 0.22
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.103
+2024-01-12 13:44:34 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.96, Sprzedaż: 4.01
+2024-01-12 13:44:34 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:44:34 INFO  Compare:30 - Wyniki porównania cen dla waluty CZK:
+2024-01-12 13:44:34 INFO  Compare:34 - Kantor Kardinal
+2024-01-12 13:44:34 INFO  Compare:34 - Kantor P&R
+2024-01-12 13:44:34 INFO  Compare:34 - Kantor House
+2024-01-12 13:44:34 INFO  Compare:34 - Kantor Centrum
+2024-01-12 13:44:34 INFO  Compare:34 - Kantor Agatka
+2024-01-12 13:44:34 INFO  Compare:34 - Kantor Baksy
+2024-01-12 13:44:34 INFO  Compare:34 - 0.171
+2024-01-12 13:44:34 INFO  Compare:34 - brak
+2024-01-12 13:44:34 INFO  Compare:34 - 0.171
+2024-01-12 13:44:34 INFO  Compare:34 - 0.1722
+2024-01-12 13:44:34 INFO  Compare:34 - brak
+2024-01-12 13:44:34 INFO  Compare:34 - 0.1745
+2024-01-12 13:44:34 INFO  Compare:34 - 0.177
+2024-01-12 13:44:34 INFO  Compare:34 - brak
+2024-01-12 13:44:34 INFO  Compare:34 - 0.177
+2024-01-12 13:44:34 INFO  Compare:34 - 0.1775
+2024-01-12 13:44:34 INFO  Compare:34 - brak
+2024-01-12 13:44:34 INFO  Compare:34 - 0.18
+2024-01-12 13:44:34 INFO  Compare:40 - Porównywanie cen zakończone sukcesem.
+2024-01-12 13:44:35 INFO  CurFront:85 - Wyświetlono tabelę na stronie: CZK
+2024-01-12 13:45:02 INFO  CompUI:75 - Zapisano: usd
+2024-01-12 13:45:02 INFO  Compare:17 - Rozpoczęcie porównywania cen dla waluty: USD
+2024-01-12 13:45:02 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/564840-kantor-kardinal
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.15
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.62, Sprzedaż: 2.68
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.55
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.93, Sprzedaż: 2.99
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.45, Sprzedaż: 0.65
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.6
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.013
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.05
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.75, Sprzedaż: 1.105
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.385
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.11
+2024-01-12 13:45:04 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.965, Sprzedaż: 3.995
+2024-01-12 13:45:04 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:45:04 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/876368-kantor-pr
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.03, Sprzedaż: 1.17
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.6, Sprzedaż: 2.72
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.98
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.69
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.54
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.012
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.09
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.026, Sprzedaż: 0.03
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.83, Sprzedaż: 0.98
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.36, Sprzedaż: 0.39
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.105
+2024-01-12 13:45:05 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.965, Sprzedaż: 3.995
+2024-01-12 13:45:05 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:45:05 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/652480-kantor-house
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.61, Sprzedaż: 2.7
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.99
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.66
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.46, Sprzedaż: 0.59
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.46, Sprzedaż: 0.52
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.36
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.02, Sprzedaż: 5.05
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.436, Sprzedaż: 1.75
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.01, Sprzedaż: 0.0118
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.75, Sprzedaż: 1
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.27, Sprzedaż: 0.35
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.835, Sprzedaż: 0.93
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.39
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.125, Sprzedaż: 0.18
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.108
+2024-01-12 13:45:07 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.961, Sprzedaż: 3.999
+2024-01-12 13:45:07 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:45:07 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/707917-kantor-centrum
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.042, Sprzedaż: 1.146
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.0421, Sprzedaż: 0.0487
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty AMD: Kupno: 0.009, Sprzedaż: 0.0134
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty ARS: Kupno: 0.0031, Sprzedaż: 0.023
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.622, Sprzedaż: 2.687
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty AZN: Kupno: 2.202, Sprzedaż: 2.661
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.303, Sprzedaż: 2.595
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty BDT: Kupno: 0.0202, Sprzedaż: 0.0349
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.212, Sprzedaż: 2.378
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty BHD: Kupno: 7.7, Sprzedaż: 11.7
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty BOB: Kupno: 0.44, Sprzedaż: 0.74
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.827, Sprzedaż: 0.985
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty BWP: Kupno: 0.184, Sprzedaż: 0.37
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty BYN: Kupno: 0.835, Sprzedaż: 1.38
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.933, Sprzedaż: 2.988
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.604, Sprzedaż: 4.667
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty CLP: Kupno: 0.0036, Sprzedaż: 0.0055
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.523, Sprzedaż: 0.605
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty COP: Kupno: 0.0006, Sprzedaż: 0.0012
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty CRC: Kupno: 0.0051, Sprzedaż: 0.0099
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1722, Sprzedaż: 0.1775
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.473, Sprzedaż: 0.557
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty DOP: Kupno: 0.0737, Sprzedaż: 0.0915
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.09, Sprzedaż: 0.158
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty EUB: Kupno: 3.35, Sprzedaż: 4.3
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.2931, Sprzedaż: 4.358
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.01, Sprzedaż: 5.062
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.454, Sprzedaż: 1.737
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty HKD: Kupno: 0.477, Sprzedaż: 0.574
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty HRK: Kupno: 0.402, Sprzedaż: 0.566
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.0112, Sprzedaż: 0.0119
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty IDR: Kupno: 0.0026, Sprzedaż: 0.0036
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty IEP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9022, Sprzedaż: 1.088
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.0453, Sprzedaż: 0.0542
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty IRP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.0262, Sprzedaż: 0.0306
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty JMD: Kupno: 0.016, Sprzedaż: 0.03
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty JOD: Kupno: 5.56, Sprzedaż: 6.49
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0272, Sprzedaż: 0.0299
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty KES: Kupno: 0.0214, Sprzedaż: 0.0347
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty KRW: Kupno: 0.0031, Sprzedaż: 0.0038
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty KWD: Kupno: 11.1, Sprzedaż: 13.66
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty KZT: Kupno: 0.0067, Sprzedaż: 0.0127
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty LKR: Kupno: 0.01, Sprzedaż: 0.0164
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.434, Sprzedaż: 0.508
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty MDL: Kupno: 0.142, Sprzedaż: 0.249
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty MKD: Kupno: 0.0733, Sprzedaż: 0.0842
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty MVR: Kupno: 0.265, Sprzedaż: 0.388
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.232, Sprzedaż: 0.276
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty MYR: Kupno: 0.814, Sprzedaż: 1.022
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.284, Sprzedaż: 0.368
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty NPR: Kupno: 0.0202, Sprzedaż: 0.0375
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.413, Sprzedaż: 2.734
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty OMR: Kupno: 10.1, Sprzedaż: 12.3
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty PEN: Kupno: 1.113, Sprzedaż: 1.29
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty PHP: Kupno: 0.0625, Sprzedaż: 0.0938
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty QAR: Kupno: 1.012, Sprzedaż: 1.188
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.833, Sprzedaż: 0.968
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.0373, Sprzedaż: 0.0452
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty RUB: Kupno: 0.0356, Sprzedaż: 0.0498
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty SAR: Kupno: 1.013, Sprzedaż: 1.183
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty SCP: Kupno: 4.26, Sprzedaż: 5.01
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty SCR: Kupno: 0.283, Sprzedaż: 0.432
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.363, Sprzedaż: 0.389
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.954, Sprzedaż: 3.185
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.1165, Sprzedaż: 0.1355
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty TMB: Kupno: 0.114, Sprzedaż: 0.1352
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty TND: Kupno: 1.211, Sprzedaż: 1.49
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.1307, Sprzedaż: 0.2164
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty TWD: Kupno: 0.09, Sprzedaż: 0.165
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty TZS: Kupno: 0.0012, Sprzedaż: 0.0027
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.0983, Sprzedaż: 0.1086
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.9514, Sprzedaż: 3.987
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty UYU: Kupno: 0.04, Sprzedaż: 0.14
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty VND: Kupno: 0.0015, Sprzedaż: 0.0023
+2024-01-12 13:45:08 INFO  ApiCur:108 - pobrano dane waluty ZAR: Kupno: 0.206, Sprzedaż: 0.285
+2024-01-12 13:45:08 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:45:08 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 13:45:10 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:45:10 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/466986-kantor-baksy
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.17
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.041, Sprzedaż: 0.049
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.65, Sprzedaż: 2.77
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.2, Sprzedaż: 2.6
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.3
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.8, Sprzedaż: 0.97
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.91, Sprzedaż: 2.98
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.625, Sprzedaż: 4.695
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.533, Sprzedaż: 0.6
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1745, Sprzedaż: 0.18
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.55
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.1, Sprzedaż: 0.147
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.33, Sprzedaż: 4.38
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.099
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.45, Sprzedaż: 1.75
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.0118
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.1
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.046, Sprzedaż: 0.055
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.024, Sprzedaż: 0.03
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0273, Sprzedaż: 0.0298
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.4, Sprzedaż: 0.5
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.23, Sprzedaż: 0.27
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.305, Sprzedaż: 0.34
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.4, Sprzedaż: 2.7
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.85, Sprzedaż: 0.92
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.037, Sprzedaż: 0.046
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.37, Sprzedaż: 0.388
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.95, Sprzedaż: 3.2
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.116, Sprzedaż: 0.128
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.13, Sprzedaż: 0.22
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.103
+2024-01-12 13:45:11 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.96, Sprzedaż: 4.01
+2024-01-12 13:45:11 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:45:11 INFO  Compare:30 - Wyniki porównania cen dla waluty USD:
+2024-01-12 13:45:11 INFO  Compare:34 - Kantor Kardinal
+2024-01-12 13:45:11 INFO  Compare:34 - Kantor P&R
+2024-01-12 13:45:11 INFO  Compare:34 - Kantor House
+2024-01-12 13:45:11 INFO  Compare:34 - Kantor Centrum
+2024-01-12 13:45:11 INFO  Compare:34 - Kantor Agatka
+2024-01-12 13:45:11 INFO  Compare:34 - Kantor Baksy
+2024-01-12 13:45:11 INFO  Compare:34 - 3.965
+2024-01-12 13:45:11 INFO  Compare:34 - 3.965
+2024-01-12 13:45:11 INFO  Compare:34 - 3.961
+2024-01-12 13:45:11 INFO  Compare:34 - 3.9514
+2024-01-12 13:45:11 INFO  Compare:34 - brak
+2024-01-12 13:45:11 INFO  Compare:34 - 3.96
+2024-01-12 13:45:11 INFO  Compare:34 - 3.995
+2024-01-12 13:45:11 INFO  Compare:34 - 3.995
+2024-01-12 13:45:11 INFO  Compare:34 - 3.999
+2024-01-12 13:45:11 INFO  Compare:34 - 3.987
+2024-01-12 13:45:11 INFO  Compare:34 - brak
+2024-01-12 13:45:11 INFO  Compare:34 - 4.01
+2024-01-12 13:45:11 INFO  Compare:40 - Porównywanie cen zakończone sukcesem.
+2024-01-12 13:45:11 INFO  CurFront:85 - Wyświetlono tabelę na stronie: USD
+2024-01-12 13:45:48 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/466986-kantor-baksy
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty AED	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty ALL	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty BAM	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty BGN	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty BRL	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty CHF	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty CNY	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty CZK	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty EGP	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty GEL	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty INR	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty ISK	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty JPY	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty MAD	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty MXN	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty NZD	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty RSD	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty SGD	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty THB	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 1.05	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.041	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.65	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.2	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.18	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.8	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.91	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 4.625	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.533	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.1745	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.48	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.1	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 4.33	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 5.03	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 1.45	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.011	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.9	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.046	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.024	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.0273	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.4	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.23	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.305	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.4	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.85	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.037	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.37	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.95	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.116	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.13	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.097	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 3.96	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 1.17	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.049	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.77	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.6	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.3	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.97	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.98	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 4.695	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.6	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.18	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.55	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.147	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 4.38	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 5.099	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 1.75	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.0118	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 1.1	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.055	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.03	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.0298	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.5	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.27	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.34	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 2.7	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.92	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.046	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.388	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 3.2	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.128	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.22	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 0.103	
+2024-01-12 13:45:49 INFO  ApiKantor:123 - pobrano dane waluty 4.01	
+2024-01-12 13:45:49 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor Baksy
+2024-01-12 13:45:49 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 13:45:49 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:45:49 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/466986-kantor-baksy
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty AED	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty ALL	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty BAM	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty BGN	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty BRL	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty CHF	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty CNY	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty CZK	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty EGP	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty GEL	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty INR	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty ISK	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty JPY	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty MAD	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty MXN	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty NZD	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty RSD	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty SGD	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty THB	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 1.05	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.041	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.65	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.2	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.18	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.8	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.91	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 4.625	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.533	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.1745	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.48	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.1	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 4.33	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 5.03	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 1.45	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.011	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.9	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.046	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.024	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.0273	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.4	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.23	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.305	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.4	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.85	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.037	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.37	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.95	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.116	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.13	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.097	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 3.96	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 1.17	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.049	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.77	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.6	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.3	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.97	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.98	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 4.695	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.6	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.18	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.55	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.147	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 4.38	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 5.099	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 1.75	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.0118	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 1.1	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.055	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.03	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.0298	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.5	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.27	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.34	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 2.7	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.92	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.046	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.388	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 3.2	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.128	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.22	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 0.103	
+2024-01-12 13:45:51 INFO  ApiKantor:123 - pobrano dane waluty 4.01	
+2024-01-12 13:45:51 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor Baksy
+2024-01-12 13:45:51 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 13:45:51 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:46:06 INFO  CompUI:75 - Zapisano: jpy
+2024-01-12 13:46:06 INFO  Compare:17 - Rozpoczęcie porównywania cen dla waluty: JPY
+2024-01-12 13:46:06 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/564840-kantor-kardinal
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.15
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.62, Sprzedaż: 2.68
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.55
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.93, Sprzedaż: 2.99
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.45, Sprzedaż: 0.65
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.6
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.013
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.05
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.75, Sprzedaż: 1.105
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.385
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.11
+2024-01-12 13:46:07 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.965, Sprzedaż: 3.995
+2024-01-12 13:46:07 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:46:07 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/876368-kantor-pr
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.03, Sprzedaż: 1.17
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.6, Sprzedaż: 2.72
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.98
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.69
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.54
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.012
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.09
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.026, Sprzedaż: 0.03
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.83, Sprzedaż: 0.98
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.36, Sprzedaż: 0.39
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.105
+2024-01-12 13:46:09 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.965, Sprzedaż: 3.995
+2024-01-12 13:46:09 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:46:09 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/652480-kantor-house
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.61, Sprzedaż: 2.7
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.99
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.66
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.46, Sprzedaż: 0.59
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.46, Sprzedaż: 0.52
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.36
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.02, Sprzedaż: 5.05
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.436, Sprzedaż: 1.75
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.01, Sprzedaż: 0.0118
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.75, Sprzedaż: 1
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.27, Sprzedaż: 0.35
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.835, Sprzedaż: 0.93
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.39
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.125, Sprzedaż: 0.18
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.108
+2024-01-12 13:46:10 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.961, Sprzedaż: 3.999
+2024-01-12 13:46:10 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:46:10 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/707917-kantor-centrum
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.042, Sprzedaż: 1.146
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.0421, Sprzedaż: 0.0487
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty AMD: Kupno: 0.009, Sprzedaż: 0.0134
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty ARS: Kupno: 0.0031, Sprzedaż: 0.023
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.622, Sprzedaż: 2.687
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty AZN: Kupno: 2.202, Sprzedaż: 2.661
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.303, Sprzedaż: 2.595
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty BDT: Kupno: 0.0202, Sprzedaż: 0.0349
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.212, Sprzedaż: 2.378
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty BHD: Kupno: 7.7, Sprzedaż: 11.7
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty BOB: Kupno: 0.44, Sprzedaż: 0.74
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.827, Sprzedaż: 0.985
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty BWP: Kupno: 0.184, Sprzedaż: 0.37
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty BYN: Kupno: 0.835, Sprzedaż: 1.38
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.933, Sprzedaż: 2.988
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.604, Sprzedaż: 4.667
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty CLP: Kupno: 0.0036, Sprzedaż: 0.0055
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.523, Sprzedaż: 0.605
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty COP: Kupno: 0.0006, Sprzedaż: 0.0012
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty CRC: Kupno: 0.0051, Sprzedaż: 0.0099
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1722, Sprzedaż: 0.1775
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.473, Sprzedaż: 0.557
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty DOP: Kupno: 0.0737, Sprzedaż: 0.0915
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.09, Sprzedaż: 0.158
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty EUB: Kupno: 3.35, Sprzedaż: 4.3
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.2931, Sprzedaż: 4.358
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.01, Sprzedaż: 5.062
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.454, Sprzedaż: 1.737
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty HKD: Kupno: 0.477, Sprzedaż: 0.574
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty HRK: Kupno: 0.402, Sprzedaż: 0.566
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.0112, Sprzedaż: 0.0119
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty IDR: Kupno: 0.0026, Sprzedaż: 0.0036
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty IEP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9022, Sprzedaż: 1.088
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.0453, Sprzedaż: 0.0542
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty IRP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.0262, Sprzedaż: 0.0306
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty JMD: Kupno: 0.016, Sprzedaż: 0.03
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty JOD: Kupno: 5.56, Sprzedaż: 6.49
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0272, Sprzedaż: 0.0299
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty KES: Kupno: 0.0214, Sprzedaż: 0.0347
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty KRW: Kupno: 0.0031, Sprzedaż: 0.0038
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty KWD: Kupno: 11.1, Sprzedaż: 13.66
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty KZT: Kupno: 0.0067, Sprzedaż: 0.0127
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty LKR: Kupno: 0.01, Sprzedaż: 0.0164
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.434, Sprzedaż: 0.508
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty MDL: Kupno: 0.142, Sprzedaż: 0.249
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty MKD: Kupno: 0.0733, Sprzedaż: 0.0842
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty MVR: Kupno: 0.265, Sprzedaż: 0.388
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.232, Sprzedaż: 0.276
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty MYR: Kupno: 0.814, Sprzedaż: 1.022
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.284, Sprzedaż: 0.368
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty NPR: Kupno: 0.0202, Sprzedaż: 0.0375
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.413, Sprzedaż: 2.734
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty OMR: Kupno: 10.1, Sprzedaż: 12.3
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty PEN: Kupno: 1.113, Sprzedaż: 1.29
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty PHP: Kupno: 0.0625, Sprzedaż: 0.0938
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty QAR: Kupno: 1.012, Sprzedaż: 1.188
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.833, Sprzedaż: 0.968
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.0373, Sprzedaż: 0.0452
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty RUB: Kupno: 0.0356, Sprzedaż: 0.0498
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty SAR: Kupno: 1.013, Sprzedaż: 1.183
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty SCP: Kupno: 4.26, Sprzedaż: 5.01
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty SCR: Kupno: 0.283, Sprzedaż: 0.432
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.363, Sprzedaż: 0.389
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.954, Sprzedaż: 3.185
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.1165, Sprzedaż: 0.1355
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty TMB: Kupno: 0.114, Sprzedaż: 0.1352
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty TND: Kupno: 1.211, Sprzedaż: 1.49
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.1307, Sprzedaż: 0.2164
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty TWD: Kupno: 0.09, Sprzedaż: 0.165
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty TZS: Kupno: 0.0012, Sprzedaż: 0.0027
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.0983, Sprzedaż: 0.1086
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.9514, Sprzedaż: 3.987
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty UYU: Kupno: 0.04, Sprzedaż: 0.14
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty VND: Kupno: 0.0015, Sprzedaż: 0.0023
+2024-01-12 13:46:11 INFO  ApiCur:108 - pobrano dane waluty ZAR: Kupno: 0.206, Sprzedaż: 0.285
+2024-01-12 13:46:11 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:46:11 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 13:46:13 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:46:13 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/466986-kantor-baksy
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.17
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.041, Sprzedaż: 0.049
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.65, Sprzedaż: 2.77
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.2, Sprzedaż: 2.6
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.3
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.8, Sprzedaż: 0.97
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.91, Sprzedaż: 2.98
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.625, Sprzedaż: 4.695
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.533, Sprzedaż: 0.6
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1745, Sprzedaż: 0.18
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.55
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.1, Sprzedaż: 0.147
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.33, Sprzedaż: 4.38
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.099
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.45, Sprzedaż: 1.75
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.0118
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.1
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.046, Sprzedaż: 0.055
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.024, Sprzedaż: 0.03
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0273, Sprzedaż: 0.0298
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.4, Sprzedaż: 0.5
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.23, Sprzedaż: 0.27
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.305, Sprzedaż: 0.34
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.4, Sprzedaż: 2.7
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.85, Sprzedaż: 0.92
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.037, Sprzedaż: 0.046
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.37, Sprzedaż: 0.388
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.95, Sprzedaż: 3.2
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.116, Sprzedaż: 0.128
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.13, Sprzedaż: 0.22
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.103
+2024-01-12 13:46:14 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.96, Sprzedaż: 4.01
+2024-01-12 13:46:14 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:46:14 INFO  Compare:30 - Wyniki porównania cen dla waluty JPY:
+2024-01-12 13:46:14 INFO  Compare:34 - Kantor Kardinal
+2024-01-12 13:46:14 INFO  Compare:34 - Kantor P&R
+2024-01-12 13:46:14 INFO  Compare:34 - Kantor House
+2024-01-12 13:46:14 INFO  Compare:34 - Kantor Centrum
+2024-01-12 13:46:14 INFO  Compare:34 - Kantor Agatka
+2024-01-12 13:46:14 INFO  Compare:34 - Kantor Baksy
+2024-01-12 13:46:14 INFO  Compare:34 - brak
+2024-01-12 13:46:14 INFO  Compare:34 - 0.026
+2024-01-12 13:46:14 INFO  Compare:34 - brak
+2024-01-12 13:46:14 INFO  Compare:34 - 0.0272
+2024-01-12 13:46:14 INFO  Compare:34 - brak
+2024-01-12 13:46:14 INFO  Compare:34 - 0.0273
+2024-01-12 13:46:14 INFO  Compare:34 - brak
+2024-01-12 13:46:14 INFO  Compare:34 - 0.03
+2024-01-12 13:46:14 INFO  Compare:34 - brak
+2024-01-12 13:46:14 INFO  Compare:34 - 0.0299
+2024-01-12 13:46:14 INFO  Compare:34 - brak
+2024-01-12 13:46:14 INFO  Compare:34 - 0.0298
+2024-01-12 13:46:14 INFO  Compare:40 - Porównywanie cen zakończone sukcesem.
+2024-01-12 13:46:14 ERROR ErrorThree:19 - Błąd: Skróty walut powinny być 3-znakowe (np: PLN, USD, EUR)
+2024-01-12 13:46:14 ERROR CompUI:83 - Błąd: Wprowadź dokładnie 3-literowy skrót waluty.
+2024-01-12 13:46:14 INFO  CurFront:85 - Wyświetlono tabelę na stronie: JPY
+2024-01-12 13:48:45 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 13:48:47 FATAL ApiKantor:67 - Nieprawidłowe dane na stronie: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 13:48:56 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 13:48:57 FATAL ApiKantor:67 - Nieprawidłowe dane na stronie: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 13:48:58 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/466986-kantor-baksy
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty AED	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty ALL	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty BAM	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty BGN	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty BRL	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty CHF	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty CNY	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty CZK	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty EGP	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty GEL	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty INR	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty ISK	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty JPY	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty MAD	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty MXN	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty NZD	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty RSD	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty SGD	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty THB	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 1.05	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.041	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.65	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.2	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.18	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.8	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.91	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 4.625	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.533	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.1745	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.48	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.1	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 4.33	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 5.03	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 1.45	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.011	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.9	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.046	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.024	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.0273	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.4	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.23	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.305	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.4	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.85	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.037	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.37	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.95	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.116	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.13	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.097	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 3.96	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 1.17	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.049	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.77	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.6	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.3	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.97	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.98	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 4.695	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.6	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.18	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.55	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.147	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 4.38	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 5.099	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 1.75	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.0118	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 1.1	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.055	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.03	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.0298	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.5	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.27	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.34	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 2.7	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.92	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.046	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.388	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 3.2	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.128	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.22	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 0.103	
+2024-01-12 13:49:00 INFO  ApiKantor:123 - pobrano dane waluty 4.01	
+2024-01-12 13:49:00 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor Baksy
+2024-01-12 13:49:00 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 13:49:00 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:49:04 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/652480-kantor-house
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty CHF	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty CNY	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty CZK	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty GEL	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 2.61	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 2.92	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 4.63	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.46	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.171	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.46	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 4.34	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 5.02	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 1.436	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.01	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.75	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.27	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.835	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.365	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.125	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.1	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 3.961	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 2.7	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 2.99	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 4.66	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.59	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.177	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.52	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 4.36	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 5.05	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 1.75	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.0118	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 1	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.35	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.93	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.39	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.18	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 0.108	
+2024-01-12 13:49:05 INFO  ApiKantor:123 - pobrano dane waluty 3.999	
+2024-01-12 13:49:05 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor House
+2024-01-12 13:49:05 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 13:49:05 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:49:06 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/876368-kantor-pr
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty AED	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty CHF	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty JPY	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 1.03	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 2.6	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 2.92	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 4.63	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.48	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 4.34	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 5.03	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.011	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.9	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.026	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.3	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.83	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.36	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.12	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.097	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 3.965	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 1.17	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 2.72	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 2.98	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 4.69	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.54	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 4.37	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 5.08	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.012	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 1.09	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.03	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.36	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.98	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.39	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.2	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 0.105	
+2024-01-12 13:49:07 INFO  ApiKantor:123 - pobrano dane waluty 3.995	
+2024-01-12 13:49:07 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor P&R
+2024-01-12 13:49:07 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 13:49:07 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 13:49:07 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/876368-kantor-pr
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty AED	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty CHF	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty JPY	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 1.03	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 2.6	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 2.92	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 4.63	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.48	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 4.34	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 5.03	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.011	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.9	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.026	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.3	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.83	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.36	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.12	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.097	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 3.965	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 1.17	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 2.72	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 2.98	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 4.69	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.54	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 4.37	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 5.08	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.012	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 1.09	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.03	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.36	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.98	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.39	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.2	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 0.105	
+2024-01-12 13:49:09 INFO  ApiKantor:123 - pobrano dane waluty 3.995	
+2024-01-12 13:49:09 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor P&R
+2024-01-12 13:49:09 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 13:49:09 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:08 INFO  Menu:125 - Aplikacja uruchomiona pomyślnie.
+2024-01-12 15:42:17 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/564840-kantor-kardinal
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty AED	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty BGN	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty CNY	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty CZK	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 1.05	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 2.62	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 2.18	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 2.93	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.45	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.171	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.48	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 4.34	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 5.03	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.011	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.9	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.3	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.75	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.365	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.12	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.1	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 3.96	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 1.15	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 2.68	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 2.55	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 2.99	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.65	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.177	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.6	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 4.37	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 5.08	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.013	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 1.05	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.36	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 1.105	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.385	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.2	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 0.11	
+2024-01-12 15:42:19 INFO  ApiKantor:123 - pobrano dane waluty 3.99	
+2024-01-12 15:42:19 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor Kardinal
+2024-01-12 15:42:19 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 15:42:19 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:23 INFO  ApiKantor:30 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/652480-kantor-house
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty AUD	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty CAD	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty CHF	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty CNY	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty CZK	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty DKK	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty EUR	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty GBP	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty GEL	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty HUF	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty ILS	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty NOK	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty RON	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty SEK	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty TRY	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty UAH	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty USD	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 2.61	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 2.92	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 4.63	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.46	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.171	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.46	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 4.34	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 5.02	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 1.436	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.01	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.75	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.27	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.835	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.365	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.125	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.1	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 3.961	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 2.7	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 2.99	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 4.66	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.59	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.177	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.52	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 4.36	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 5.05	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 1.75	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.0118	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 1	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.35	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.93	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.39	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.18	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 0.108	
+2024-01-12 15:42:24 INFO  ApiKantor:123 - pobrano dane waluty 3.999	
+2024-01-12 15:42:24 INFO  Frontend:30 - Tworzenie interfejsu użytkownika dla strony: Kantor House
+2024-01-12 15:42:24 INFO  Frontend:47 - Tworzenie interfejsu użytkownika zakończone sukcesem.
+2024-01-12 15:42:24 INFO  ApiKantor:130 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:33 INFO  CompUI:75 - Zapisano: EUR
+2024-01-12 15:42:33 INFO  Compare:17 - Rozpoczęcie porównywania cen dla waluty: EUR
+2024-01-12 15:42:33 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/564840-kantor-kardinal
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.15
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.62, Sprzedaż: 2.68
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.55
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.93, Sprzedaż: 2.99
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.45, Sprzedaż: 0.65
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.6
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.013
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.05
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.36
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.75, Sprzedaż: 1.105
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.385
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.11
+2024-01-12 15:42:34 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.96, Sprzedaż: 3.99
+2024-01-12 15:42:34 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:34 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/876368-kantor-pr
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.03, Sprzedaż: 1.17
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.6, Sprzedaż: 2.72
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.98
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.69
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.54
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.08
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.012
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.09
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.026, Sprzedaż: 0.03
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.35
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.83, Sprzedaż: 0.98
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.36, Sprzedaż: 0.39
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.12, Sprzedaż: 0.2
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.105
+2024-01-12 15:42:35 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.96, Sprzedaż: 3.99
+2024-01-12 15:42:35 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:35 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/652480-kantor-house
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.61, Sprzedaż: 2.7
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.99
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.66
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.46, Sprzedaż: 0.59
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.171, Sprzedaż: 0.177
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.46, Sprzedaż: 0.52
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.36
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.02, Sprzedaż: 5.05
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.436, Sprzedaż: 1.75
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.01, Sprzedaż: 0.0118
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.75, Sprzedaż: 1
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.27, Sprzedaż: 0.35
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.835, Sprzedaż: 0.93
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.365, Sprzedaż: 0.39
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.125, Sprzedaż: 0.18
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.1, Sprzedaż: 0.108
+2024-01-12 15:42:37 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.961, Sprzedaż: 3.999
+2024-01-12 15:42:37 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:37 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/707917-kantor-centrum
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.042, Sprzedaż: 1.146
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.0421, Sprzedaż: 0.0487
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty AMD: Kupno: 0.009, Sprzedaż: 0.0134
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty ARS: Kupno: 0.0031, Sprzedaż: 0.023
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.624, Sprzedaż: 2.698
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty AZN: Kupno: 2.202, Sprzedaż: 2.661
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.303, Sprzedaż: 2.595
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty BDT: Kupno: 0.0202, Sprzedaż: 0.0349
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.212, Sprzedaż: 2.378
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty BHD: Kupno: 7.7, Sprzedaż: 11.7
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty BOB: Kupno: 0.44, Sprzedaż: 0.74
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.827, Sprzedaż: 0.985
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty BWP: Kupno: 0.184, Sprzedaż: 0.37
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty BYN: Kupno: 0.835, Sprzedaż: 1.38
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.933, Sprzedaż: 2.988
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.612, Sprzedaż: 4.679
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty CLP: Kupno: 0.0036, Sprzedaż: 0.0055
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.523, Sprzedaż: 0.605
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty COP: Kupno: 0.0006, Sprzedaż: 0.0012
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty CRC: Kupno: 0.0051, Sprzedaż: 0.0099
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1722, Sprzedaż: 0.1775
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.473, Sprzedaż: 0.557
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty DOP: Kupno: 0.0737, Sprzedaż: 0.0915
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.09, Sprzedaż: 0.158
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty EUB: Kupno: 3.35, Sprzedaż: 4.3
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.302, Sprzedaż: 4.3586
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.01, Sprzedaż: 5.065
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.454, Sprzedaż: 1.737
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty HKD: Kupno: 0.477, Sprzedaż: 0.574
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty HRK: Kupno: 0.402, Sprzedaż: 0.566
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.0112, Sprzedaż: 0.0119
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty IDR: Kupno: 0.0026, Sprzedaż: 0.0036
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty IEP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9022, Sprzedaż: 1.088
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.0453, Sprzedaż: 0.0542
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty IRP: Kupno: 4.24, Sprzedaż: 5.06
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.0262, Sprzedaż: 0.0306
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty JMD: Kupno: 0.016, Sprzedaż: 0.03
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty JOD: Kupno: 5.56, Sprzedaż: 6.49
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0272, Sprzedaż: 0.0299
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty KES: Kupno: 0.0214, Sprzedaż: 0.0347
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty KRW: Kupno: 0.0031, Sprzedaż: 0.0038
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty KWD: Kupno: 11.1, Sprzedaż: 13.66
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty KZT: Kupno: 0.0067, Sprzedaż: 0.0127
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty LKR: Kupno: 0.01, Sprzedaż: 0.0164
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.434, Sprzedaż: 0.508
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty MDL: Kupno: 0.142, Sprzedaż: 0.249
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty MKD: Kupno: 0.0733, Sprzedaż: 0.0842
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty MVR: Kupno: 0.265, Sprzedaż: 0.388
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.232, Sprzedaż: 0.276
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty MYR: Kupno: 0.814, Sprzedaż: 1.022
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.284, Sprzedaż: 0.368
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty NPR: Kupno: 0.0202, Sprzedaż: 0.0375
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.413, Sprzedaż: 2.734
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty OMR: Kupno: 10.1, Sprzedaż: 12.3
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty PEN: Kupno: 1.113, Sprzedaż: 1.29
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty PHP: Kupno: 0.0625, Sprzedaż: 0.0938
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty QAR: Kupno: 1.012, Sprzedaż: 1.188
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.833, Sprzedaż: 0.968
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.0373, Sprzedaż: 0.0452
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty RUB: Kupno: 0.0356, Sprzedaż: 0.0498
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty SAR: Kupno: 1.013, Sprzedaż: 1.183
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty SCP: Kupno: 4.26, Sprzedaż: 5.01
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty SCR: Kupno: 0.283, Sprzedaż: 0.432
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.363, Sprzedaż: 0.389
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.954, Sprzedaż: 3.185
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.1165, Sprzedaż: 0.1355
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty TMB: Kupno: 0.114, Sprzedaż: 0.1352
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty TND: Kupno: 1.211, Sprzedaż: 1.49
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.1307, Sprzedaż: 0.2164
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty TWD: Kupno: 0.09, Sprzedaż: 0.165
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty TZS: Kupno: 0.0012, Sprzedaż: 0.0027
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.0983, Sprzedaż: 0.1086
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.946, Sprzedaż: 3.986
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty UYU: Kupno: 0.04, Sprzedaż: 0.14
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty VND: Kupno: 0.0015, Sprzedaż: 0.0023
+2024-01-12 15:42:38 INFO  ApiCur:108 - pobrano dane waluty ZAR: Kupno: 0.206, Sprzedaż: 0.285
+2024-01-12 15:42:38 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:38 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/643512-kantor-agatka
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.63, Sprzedaż: 2.69
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.21, Sprzedaż: 2.32
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.945, Sprzedaż: 2.99
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.69
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.174, Sprzedaż: 0.177
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.5, Sprzedaż: 0.55
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.34, Sprzedaż: 4.37
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.04, Sprzedaż: 5.085
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty HRK: Kupno: 0.5, Sprzedaż: 0.59
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.0111, Sprzedaż: 0.0115
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.3, Sprzedaż: 0.35
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.38, Sprzedaż: 2.55
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.85, Sprzedaż: 0.9
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.36, Sprzedaż: 0.38
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.13, Sprzedaż: 0.19
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.09, Sprzedaż: 0.11
+2024-01-12 15:42:39 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.96, Sprzedaż: 3.995
+2024-01-12 15:42:39 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:39 INFO  ApiCur:23 - Rozpoczęcie pobierania danych z URL: https://kantor.live/kantory/krakow/466986-kantor-baksy
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty AED: Kupno: 1.05, Sprzedaż: 1.17
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty ALL: Kupno: 0.041, Sprzedaż: 0.049
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty AUD: Kupno: 2.65, Sprzedaż: 2.77
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty BAM: Kupno: 2.2, Sprzedaż: 2.6
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty BGN: Kupno: 2.18, Sprzedaż: 2.3
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty BRL: Kupno: 0.8, Sprzedaż: 0.97
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty CAD: Kupno: 2.92, Sprzedaż: 2.99
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty CHF: Kupno: 4.63, Sprzedaż: 4.685
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty CNY: Kupno: 0.533, Sprzedaż: 0.6
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty CZK: Kupno: 0.1745, Sprzedaż: 0.18
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty DKK: Kupno: 0.48, Sprzedaż: 0.55
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty EGP: Kupno: 0.1, Sprzedaż: 0.147
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty EUR: Kupno: 4.325, Sprzedaż: 4.38
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty GBP: Kupno: 5.03, Sprzedaż: 5.099
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty GEL: Kupno: 1.45, Sprzedaż: 1.75
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty HUF: Kupno: 0.011, Sprzedaż: 0.0118
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty ILS: Kupno: 0.9, Sprzedaż: 1.1
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty INR: Kupno: 0.046, Sprzedaż: 0.055
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty ISK: Kupno: 0.024, Sprzedaż: 0.03
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty JPY: Kupno: 0.0273, Sprzedaż: 0.0298
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty MAD: Kupno: 0.4, Sprzedaż: 0.5
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty MXN: Kupno: 0.23, Sprzedaż: 0.27
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty NOK: Kupno: 0.305, Sprzedaż: 0.34
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty NZD: Kupno: 2.4, Sprzedaż: 2.7
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty RON: Kupno: 0.85, Sprzedaż: 0.92
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty RSD: Kupno: 0.037, Sprzedaż: 0.046
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty SEK: Kupno: 0.37, Sprzedaż: 0.388
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty SGD: Kupno: 2.95, Sprzedaż: 3.2
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty THB: Kupno: 0.116, Sprzedaż: 0.128
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty TRY: Kupno: 0.13, Sprzedaż: 0.22
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty UAH: Kupno: 0.097, Sprzedaż: 0.103
+2024-01-12 15:42:40 INFO  ApiCur:108 - pobrano dane waluty USD: Kupno: 3.95, Sprzedaż: 4.01
+2024-01-12 15:42:40 INFO  ApiCur:117 - Pobieranie danych zakończone sukcesem.
+2024-01-12 15:42:40 INFO  Compare:30 - Wyniki porównania cen dla waluty EUR:
+2024-01-12 15:42:40 INFO  Compare:34 - Kantor Kardinal
+2024-01-12 15:42:40 INFO  Compare:34 - Kantor P&R
+2024-01-12 15:42:40 INFO  Compare:34 - Kantor House
+2024-01-12 15:42:40 INFO  Compare:34 - Kantor Centrum
+2024-01-12 15:42:40 INFO  Compare:34 - Kantor Agatka
+2024-01-12 15:42:40 INFO  Compare:34 - Kantor Baksy
+2024-01-12 15:42:40 INFO  Compare:34 - 4.34
+2024-01-12 15:42:40 INFO  Compare:34 - 4.34
+2024-01-12 15:42:40 INFO  Compare:34 - 4.34
+2024-01-12 15:42:40 INFO  Compare:34 - 4.302
+2024-01-12 15:42:40 INFO  Compare:34 - 4.34
+2024-01-12 15:42:40 INFO  Compare:34 - 4.325
+2024-01-12 15:42:40 INFO  Compare:34 - 4.37
+2024-01-12 15:42:40 INFO  Compare:34 - 4.37
+2024-01-12 15:42:40 INFO  Compare:34 - 4.36
+2024-01-12 15:42:40 INFO  Compare:34 - 4.3586
+2024-01-12 15:42:40 INFO  Compare:34 - 4.37
+2024-01-12 15:42:40 INFO  Compare:34 - 4.38
+2024-01-12 15:42:40 INFO  Compare:40 - Porównywanie cen zakończone sukcesem.
+2024-01-12 15:42:40 INFO  CurFront:85 - Wyświetlono tabelę na stronie: EUR
